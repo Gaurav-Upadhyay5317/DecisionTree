@@ -1,0 +1,17 @@
+ID,Type,Color,Size,Age,Inflated
+1,Stretch,Yellow,Small,Adult,Yes
+2,Stretch,Yellow,Small,Child,Yes
+3,Dip,Yellow,Small,Adult,Yes
+4,Dip,Yellow,Small,Child,Yes
+5,Stretch,Yellow,Large,Adult,Yes
+6,Stretch,Yellow,Large,Child,No
+7,Dip,Yellow,Large,Adult,No
+8,Dip,Yellow,Large,Child,No
+9,Stretch,Purple,Small,Adult,Yes
+10,Stretch,Purple,Small,Child,No
+11,Dip,Purple,Small,Adult,No
+12,Dip,Purple,Small,Child,Yes
+13,Stretch,Purple,Large,Adult,No
+14,Stretch,Purple,Large,Child,No
+15,Dip,Purple,Large,Adult,No
+16,Dip,Purple,Large,Child,No
